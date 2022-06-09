@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "Node JS Basic Concepts",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diliptech90/nodejs-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diliptech90/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/diliptech90/nodejs-basic#readme",
+  "dependencies": {
+    "node": "^17.7.2",
+    "nodemon": "^2.0.16"
+  }
+}
